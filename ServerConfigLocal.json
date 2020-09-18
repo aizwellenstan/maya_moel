@@ -1,0 +1,20 @@
+{
+	"1.3.20":
+    {
+        "server_ip":"192.168.206.65:10002",
+        "patch_url":"https://storage.googleapis.com/jacfit/debug/assetbundle/{0}/{1}/",
+        "apk_url":"https://xxx.apk",
+        "google_play_url":"market://details?id=com.jsports.jplay",
+        "apple_store_url":"itms-apps://itunes.apple.com/app/id1463398495",
+        "LanguageSettings":
+        {
+            "zh_tw":null,
+            "en":null
+        },
+        "RemoteSettings":
+        {
+            "FrameRate":30,
+            "OpenDebugConsole":true
+        }
+    }
+}
